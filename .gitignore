@@ -1,0 +1,22 @@
+# OS / Editor
+.DS_Store
+Thumbs.db
+
+# Exports / Build outputs (keep repo lean)
+**/export/*.pdf
+**/export/*.png
+**/export/*.jpg
+**/export/*.jpeg
+
+# Design source files (usually large)
+*.ai
+*.psd
+*.afdesign
+*.afphoto
+*.pptx
+*.key
+
+# Misc archives
+*.zip
+*.rar
+*.7z

@@ -12,10 +12,11 @@
 
 1. เลือก `standard` + `sub-skill` + ช่วงตัวเลข (เช่น 0–10 หรือ 0–20)
 2. เลือก `theme` (animals/food/space/seasonal)
-3. สร้างชุดหน้า (page set) ตามโครงเดียวกัน
-4. ทำ answer key + ตรวจ math accuracy
-5. Export (PDF) + thumbnail + listing copy
-6. อัปโหลดขึ้น TPT และทำ keyword/SEO ให้ตรงรหัสมาตรฐาน
+3. Copy โครงจาก `templates/product-pack/` แล้วเริ่มเขียน `src/CONTENT.md`
+4. สร้างชุดหน้า (page set) ตามโครงเดียวกัน
+5. ทำ answer key + ตรวจ math accuracy
+6. Export (PDF) + thumbnail + listing copy
+7. อัปโหลดขึ้น TPT และทำ keyword/SEO ให้ตรงรหัสมาตรฐาน
 
 ## 2) Definition of Done
 
